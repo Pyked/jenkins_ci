@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/pyke/Downloads/omd-ci (github)/OMD-CI/src/main/java/fr/pyke/omd/ci/FirstPdf.java">
+<error line="6" severity="warning" message="Extra separation in import group before &apos;com.itextpdf.text.Anchor&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="6" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.Anchor&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="7" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.BadElementException&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="8" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.BaseColor&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="9" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.Chapter&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="10" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.Document&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="11" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.DocumentException&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="12" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.Element&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="13" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.Font&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="14" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.List&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="15" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.ListItem&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="16" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.Paragraph&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="17" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.Phrase&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="18" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.Section&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="19" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.pdf.PdfPCell&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="20" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.pdf.PdfPTable&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="21" severity="warning" message="Wrong lexicographical order for &apos;com.itextpdf.text.pdf.PdfWriter&apos; import. Should be before &apos;java.util.Date&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="68" severity="warning" message="First sentence of Javadoc is missing an ending period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="196" column="3" severity="warning" message="Javadoc comment is placed in the wrong location." source="com.puppycrawl.tools.checkstyle.checks.javadoc.InvalidJavadocPositionCheck"/>
+</file>
+<file name="/home/pyke/Downloads/omd-ci (github)/OMD-CI/src/main/java/fr/pyke/omd/ci/App.java">
+</file>
+</checkstyle>

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fr.pyke.omd.ci","l":"App"},{"p":"fr.pyke.omd.ci","l":"FirstPdf"}];updateSearchResults();

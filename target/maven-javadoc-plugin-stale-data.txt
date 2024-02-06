@@ -1,0 +1,56 @@
+/home/pyke/.config/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/21/bin/javadoc
+@options
+@packages
+-classpath
+'/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/classes:/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/test-classes:/home/pyke/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/pyke/.m2/repository/com/itextpdf/itextpdf/5.5.13.1/itextpdf-5.5.13.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/pyke/Downloads/omd-ci (github)/OMD-CI/src/test/java:/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'omd-ci 1.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'omd-ci 1.0 Test API'
+fr.pyke.omd.ci
+fr.pyke.omd.ci
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/classes = 1707194612960
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/test-classes = 1707194613196
+/home/pyke/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar = 1699262159696
+/home/pyke/.m2/repository/com/itextpdf/itextpdf/5.5.13.1/itextpdf-5.5.13.1.jar = 1699262174460
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/src/test/java = 1699614812657
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/generated-test-sources/test-annotations = 1707194613108
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/overview-tree.html = 1707194628128
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/search.html = 1707194628156
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/search-page.js = 1707194628172
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/element-list = 1707194628096
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/type-search-index.js = 1707194628148
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/index-all.html = 1707194628156
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/script.js = 1707194628168
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/search.js = 1707194628172
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/allpackages-index.html = 1707194628144
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/stylesheet.css = 1707194628168
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/link.svg = 1707194628172
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/help-doc.html = 1707194628168
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/package-search-index.js = 1707194628148
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/tag-search-index.js = 1707194628148
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/member-search-index.js = 1707194628148
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/index.html = 1707194628160
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/module-search-index.js = 1707194628148
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/allclasses-index.html = 1707194628144
+/home/pyke/Downloads/omd-ci (github)/OMD-CI/target/site/testapidocs/copy.svg = 1707194628168
